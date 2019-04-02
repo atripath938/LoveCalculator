@@ -1,0 +1,150 @@
+#HisName {
+
+    width: 30%;
+    position: fixed;
+    margin-left: 35%;
+
+}
+
+#HerName {
+
+    width: 30%;
+    position: fixed;
+    margin-left: 50%;
+
+}
+
+.names {
+
+    padding-top: 2%;
+
+}
+
+#calcBtn {
+
+    position: fixed;
+    margin-top: 25%;
+    margin-left: 30%;
+
+}
+
+#results {
+
+    position: fixed;
+    margin-top: 15%;
+    margin-left: 40%;
+
+}
+
+#FirstDOB {
+
+    width: 30%;
+    position: fixed;
+    margin-left: 35%;
+    margin-top: 10%;
+
+}
+
+#SecondDOB {
+
+    width: 30%;
+    position: fixed;
+    margin-left: 50%;
+    margin-top: 10%;
+
+}
+
+#exposeAdv {
+
+    position: fixed;
+    margin-left: 40%;
+    margin-top: 20%
+
+}
+
+#setting {
+
+    visibility: hidden;
+    position: fixed;
+    padding-left: 20%;
+    padding-top: 1%;
+
+}
+
+#hisCoach {
+
+    float: left;
+    margin-left: -45%;
+    margin-top: -1%;
+    visibility: hidden;
+
+}
+
+#herCoach {
+
+    float: right;
+    margin-right: 25%;
+    margin-top: -1%;
+    visibility: hidden;
+
+}
+
+#CalcCoach {
+
+    float: left;
+    padding-left: -10%;
+    margin-top: -1%;
+    visibility: hidden;
+
+}
+
+#SimpleOptions {
+
+    position: fixed;
+    float: right;
+    padding-left: 30%;
+
+}
+
+#information {
+
+    width: 20%;
+    text-align: justify;
+
+}
+
+#MoreInfoTXT {
+
+    visibility: hidden;
+
+}
+
+#FeaturedContent {
+
+    float: right;
+    padding-right: 14%;
+    visibility: hidden;
+
+}
+
+footer {
+
+    float: bottom;
+    padding-top: 10%;
+    padding-left: 40%;
+
+}
+
+progress{
+
+    width: 40%;
+
+}
+
+#nextStep{
+
+    position: fixed;
+    margin-top: 17%;
+    margin-left: 40%;
+
+}
